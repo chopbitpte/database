@@ -1,0 +1,19 @@
+{
+    "name": "開心出行 Leave Home Happy",
+    "description": "開心出行 Leave Home Happy 係為咗教育同鼓勵香港人學習寫 app 而存在嘅。",
+    "image": "ipfs://bafybeianwxn7ip76z7xuswdhdkjrlrktnqa2q5lytrctoa2unnowmhidw4/leavehomesafe",
+    "properties": {
+        "meta": {
+            "asset_code": "LeaveHomeHappy",
+            "issuer": "freehk.io",
+            "creator": "freehk.io",
+            "limit": "500000",
+            "lot": "0",
+            "thumbnail": "https://bafkreicrpqsoiy5ig2k2277rizise56xpauoef6fbaikrmqo5opuwne76e.ipfs.dweb.link",
+            "tags": ["freehk.io"]
+        },
+        "verse": {},
+        "user": {},
+        "custom": {}
+    }
+}

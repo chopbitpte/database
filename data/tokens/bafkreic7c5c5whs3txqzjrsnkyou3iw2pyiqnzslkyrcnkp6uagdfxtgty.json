@@ -1,0 +1,19 @@
+{
+    "name": "武漢肺炎 Wuhan Virus",
+    "description": "中共政委金燦榮食咗誠實豆沙包，親口承認咗武漢肺炎係中國最先爆發嘅！\n真係唔叫「武漢肺炎」都唔得啦！",
+    "image": "ipfs://bafybeibvirewcwopzrzyorzg6dzgbl2r2tintceq7ksuljeu4ero4l3bpy",
+    "properties": {
+        "meta": {
+            "asset_code": "WuhanVirus",
+            "issuer": "freehk.io",
+            "creator": "freehk.io",
+            "limit": "2000001",
+            "lot": "0",
+            "thumbnail": "https://bafkreif4dpw2qadmcy6epx4xawc6uilxlkjw4cgiigkiex5ngyzrzbthz4.ipfs.dweb.link",
+            "tags": ["freehk.io"]
+        },
+        "verse": {},
+        "user": {},
+        "custom": {}
+    }
+}
